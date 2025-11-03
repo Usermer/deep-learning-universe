@@ -10,7 +10,7 @@ This repository is a growing collection of **interactive Jupyter notebooks** tha
 
 | Lecture | Topic | Notebook |
 |----------|--------|-----------|
-| 1 | 🔹 Introduction to Perceptrons | [Open Notebook]() |
+| 1 | 🔹 Introduction to Perceptrons | [Open Notebook](https://github.com/Usermer/deep-learning-universe/blob/main/01_neural_networks_fundamentals.ipynb) |
 
 ---
 
