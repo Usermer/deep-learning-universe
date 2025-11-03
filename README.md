@@ -1,2 +1,17 @@
-# deep-learning-universe-
-A complete deep learning journey through interactive Jupyter notebooks.📚✨  Master all core concepts - from basic perceptrons to advanced architectures like CNNs, RNNs, and transformers - with hands-on code examples and clear explanations. 🧠⚡  
+# 🧠 Deep Learning From Scratch
+
+*A hands-on journey into deep learning, explained from the ground up.*
+
+This repository is a growing collection of **interactive Jupyter notebooks** that teach the core ideas behind neural networks, backpropagation, and modern AI architectures.
+
+---
+
+## 📘 Table of Contents
+
+| Lecture | Topic | Notebook |
+|----------|--------|-----------|
+| 1 | 🔹 Introduction to Perceptrons | [Open Notebook]() |
+
+---
+
+
